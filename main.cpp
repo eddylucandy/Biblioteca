@@ -19,7 +19,11 @@ void mostrarMenu() {
     cout << "¦                                       ¦" << endl;
     cout << "¦  5. Consulta de libros prestado       ¦" << endl;
     cout << "¦                                       ¦" << endl;
-    cout << "¦  6. Salir                             ¦" << endl;
+    cout << "¦  6. Consulta de libros prestado       ¦" << endl;
+    cout << "¦                                       ¦" << endl;
+    cout << "¦  7. Consulta de libros prestado       ¦" << endl;
+    cout << "¦                                       ¦" << endl;
+    cout << "¦  8. Salir                             ¦" << endl;
     cout << "¦                                       ¦" << endl;
     cout << "-----------------------------------------*" << endl
          << endl;
